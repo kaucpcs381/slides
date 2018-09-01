@@ -1,12 +1,14 @@
 image: node:6.10.0
 
 pages:
-  cache:
-    paths:
-    - node_modules
-
+  stage: deploy
   script:
   - npm install
-  - npm run build
+  - node_modules/.bin/gulp
+  - cp -R build public
+  artifacts:
+    paths:
+    - public
   only:
   - gh-pages
+
