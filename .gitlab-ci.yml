@@ -7,6 +7,6 @@ pages:
 
   script:
   - npm install
-  - npm build
+  - npm run build
   only:
   - gh-pages
