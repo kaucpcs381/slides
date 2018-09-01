@@ -1,0 +1,12 @@
+image: node:6.10.0
+
+pages:
+  cache:
+    paths:
+    - node_modules
+
+  script:
+  - npm install
+  - npm build
+  only:
+  - master
