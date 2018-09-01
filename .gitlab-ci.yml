@@ -1,5 +1,8 @@
 image: "node:latest"
 
+stages:
+- build
+- pages
 
 build:
   stage: build
@@ -19,7 +22,8 @@ pages:
   stage: pages
   dependencies:
     - build
-  script: []
+  script:
+    - echo 'publishing deck'
   artifacts:
     paths:
       - public/
