@@ -35,7 +35,9 @@
 
 
 ## Storyboarding Example
-![Storyboard example](./images/Storyboard.jpeg)
+
+<img src="./images/Storyboard.jpeg" alt="Storyboard example by uxdesigner21.com" style="max-height: 25%;"/>
+[Courtesy of uxdesigner21.com](http://uxdesigner21.com/wp-content/uploads/2015/03/Storyboard2.jpeg)
 
 
 ## A storyboard helps us answer the following questions:
