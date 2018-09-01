@@ -9,4 +9,4 @@ pages:
   - npm install
   - npm build
   only:
-  - master
+  - gh-pages
