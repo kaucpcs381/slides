@@ -1,8 +1,5 @@
 image: "node:latest"
 
-stages:
-- build
-- pages
 
 build:
   stage: build
