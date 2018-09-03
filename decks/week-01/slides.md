@@ -13,8 +13,9 @@
 
 
 # About This Class
-- Communication: Use Slack (Not Email, please!). Join our Slack team at: 
-  - <a href="http://bit.ly/cpcs-381-spring-18">http://bit.ly/cpcs-381-spring-18</a>
+- The class website has all the information:
+  - <a href="https://cpcs381.gitlab.io">https://cpcs381.gitlab.io</a>
+- Communication: Use Slack (Not Email, please!)
 
 
 ### Human-Computer Interaction (HCI)
